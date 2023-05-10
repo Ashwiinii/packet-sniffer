@@ -7,7 +7,7 @@ Packet sniffer is a program where packets of data flowing across the network are
 Open a new terminal and execute the below command to run the Sniffer.
 
 ```
-sudo python3 sniffer.py
+sudo python3 packet-sniffer.py
 ```
 
 ## Packages and Dependencies
