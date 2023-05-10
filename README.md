@@ -1,6 +1,6 @@
 # packet-sniffer
 
-Packet sniffer is a program where packets of data flowing across the network are detected and observed. In this project, a sniffer is implemented in Python that reads packets from the raw socket and categorizes them based on protocols, namely IP, TCP, UDP, DNS, ICMP, HTTP, HTTPS and QUIC. The sniffer counts packets of each of the aforementioned protocols. The program runs for 30 seconds and then exits  gracefully. The program was wrotten on Ubuntu 16.04 LTS operating system.
+Packet sniffer is a program where packets of data flowing across the network are detected and observed. In this project, a sniffer is implemented in Python that reads packets from the raw socket and categorizes them based on protocols, namely IP, TCP, UDP, DNS, ICMP, HTTP, HTTPS and QUIC. The sniffer counts packets of each of the aforementioned protocols. The program runs for 30 seconds and then exits  gracefully. The program was written on Ubuntu 16.04 LTS operating system.
 
 ## Command to compile and execute the Packet-Sniffer
 
